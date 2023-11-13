@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "codes"]
+	url = git@github.com:Mahiyat/cpp-code-templates.git
+	fetch = +refs/heads/*:refs/remotes/codes/*
